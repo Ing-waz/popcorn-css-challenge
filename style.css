@@ -53,19 +53,19 @@ body {
     vertical-align: top;
   }
   
-  .box-a {
+  .box-h {
     color: #553100;
   }
   
-  .box-b {
+  .box-p {
     color: #553100;
   }
   
-  .box-c {
+  .box-btn {
     margin-top: 20px;
   }
   
-  .box-c button {
+  .box-btn button {
     background-color: #805215;
     color: #FFF;
     border: none;
@@ -89,7 +89,7 @@ body {
     margin-bottom: 20px;
   }
   
-  .bottom-box-button button {
+  .bottom-box-putton button {
     background-color: #805215;
     color: #FFF;
     border: none;

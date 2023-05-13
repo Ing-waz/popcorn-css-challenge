@@ -1,5 +1,100 @@
-/*COLORS:
+/* COLORS:
 Header background - #FFDBAA
 button - #805215
 Header Text - #553100
-Main background - #D4A76A*/
+Main background - #D4A76A */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .main-body {
+    background-color: #D4A76A;
+  }
+  
+  .top-box {
+    background-color: #FFDBAA;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .company-logo {
+    color: #553100;
+  }
+  
+  .header-buttons {
+    margin-top: 20px;
+  }
+  
+  .top-page-button {
+    background-color: #805215;
+    color: #FFF;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .bottom-chunk {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .each-box {
+    display: inline-block;
+    width: 25%; /* Adjust the width as desired */
+    padding: 20px;
+    background-color: #FFF;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    vertical-align: top;
+  }
+  
+  .box-a {
+    color: #553100;
+  }
+  
+  .box-b {
+    color: #553100;
+  }
+  
+  .box-c {
+    margin-top: 20px;
+  }
+  
+  .box-c button {
+    background-color: #805215;
+    color: #FFF;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .bottom-box {
+    background-color: #FFF;
+    padding: 20px;
+    margin-top: 40px;
+  }
+  
+  .bottom-box-header {
+    color: #553100;
+  }
+  
+  .bottom-box-p {
+    color: #553100;
+    margin-bottom: 20px;
+  }
+  
+  .bottom-box-button button {
+    background-color: #805215;
+    color: #FFF;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
